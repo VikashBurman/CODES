@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0020-valid-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
