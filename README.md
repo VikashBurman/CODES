@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0503-next-greater-element-ii) |
 ## Trie
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0503-next-greater-element-ii) |
 | [1511-count-number-of-teams](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1511-count-number-of-teams) |
 ## Dynamic Programming
 |  |
@@ -49,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
