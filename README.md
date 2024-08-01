@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0496-next-greater-element-i) |
 ## Array
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0016-3sum-closest) |
+| [0242-valid-anagram](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
 |  |
