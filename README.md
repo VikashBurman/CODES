@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0496-next-greater-element-i) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0943-sum-of-subarray-minimums) |
 | [1511-count-number-of-teams](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0451-sort-characters-by-frequency) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## String Matching
 |  |
 | ------- |
