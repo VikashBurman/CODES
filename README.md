@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0812-rotate-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0496-next-greater-element-i) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
 | ------- |
