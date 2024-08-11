@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0048-rotate-image) |
 | [2032-largest-odd-number-in-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
