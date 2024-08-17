@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0144-binary-tree-preorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0943-sum-of-subarray-minimums) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -170,10 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
