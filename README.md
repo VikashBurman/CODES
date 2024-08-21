@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0048-rotate-image) |
 | [2032-largest-odd-number-in-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 ## String
