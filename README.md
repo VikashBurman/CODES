@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0169-majority-element) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0234-palindrome-linked-list) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0451-sort-characters-by-frequency) |
