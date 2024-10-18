@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0048-rotate-image) |
+| [1013-fibonacci-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0943-sum-of-subarray-minimums](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0943-sum-of-subarray-minimums) |
+| [1013-fibonacci-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
@@ -188,4 +190,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
