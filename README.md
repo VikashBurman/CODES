@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0234-palindrome-linked-list) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0054-spiral-matrix) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0943-sum-of-subarray-minimums](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1013-fibonacci-number) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0943-sum-of-subarray-minimums) |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
