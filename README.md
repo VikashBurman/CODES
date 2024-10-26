@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0049-group-anagrams) |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
