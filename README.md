@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0049-group-anagrams) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0169-majority-element) |
