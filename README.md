@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 ## String
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0943-sum-of-subarray-minimums](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1013-fibonacci-number) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
