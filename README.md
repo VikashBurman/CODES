@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0242-valid-anagram) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0088-merge-sorted-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
 |  |
