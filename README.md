@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0733-flood-fill) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0733-flood-fill) |
 ## Divide and Conquer
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0733-flood-fill) |
 ## Simulation
 |  |
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
