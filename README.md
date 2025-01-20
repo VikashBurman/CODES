@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0134-gas-station) |
 | [2032-largest-odd-number-in-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0054-spiral-matrix) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0152-maximum-product-subarray) |
