@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0200-number-of-islands) |
+| [0414-third-maximum-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0518-coin-change-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0451-sort-characters-by-frequency) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## String Matching
