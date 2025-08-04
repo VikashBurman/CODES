@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0503-next-greater-element-ii) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Union Find
 |  |
