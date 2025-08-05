@@ -2,14 +2,12 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
         int n = nums.size();
-        map<int,int>mp;
-        for(auto it :nums){
-            mp[it]++;
-        }
-        for(auto it:mp){
-            if(it.second>1){
+        unordered_map<int,int>mp;
+        for(auto it:nums){
+            if(mp[it]>=1){
                 return true;
             }
+            mp[it]++;
         }
         return false;
     }
