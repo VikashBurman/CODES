@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0496-next-greater-element-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0496-next-greater-element-i) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0451-sort-characters-by-frequency) |
