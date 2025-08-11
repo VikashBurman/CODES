@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0118-pascals-triangle) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0792-binary-search) |
 ## Sorting
