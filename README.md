@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0070-climbing-stairs) |
+| [0342-power-of-four](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 ## String
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
 | ------- |
