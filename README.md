@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1013-fibonacci-number) |
+| [1448-maximum-69-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/VikashBurman/LeetCodeSoln/tree/master/0135-candy) |
+| [1448-maximum-69-number](https://github.com/VikashBurman/LeetCodeSoln/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/VikashBurman/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
