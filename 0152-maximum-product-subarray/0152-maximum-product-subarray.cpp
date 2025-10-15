@@ -2,16 +2,17 @@ class Solution {
 public:
     int maxProduct(vector<int>& nums) {
         int n = nums.size();
-        int maxi = INT_MIN;
-        int pre = 1;
-        int suff = 1;
-        for(int i =0;i<n;i++){
-            if(pre == 0) pre = 1;
-            if(suff == 0) suff = 1;
-            pre = pre*nums[i];
-            suff = suff*nums[n-i-1];
-            maxi = max(maxi,max(pre,suff));
+        
+        int maxpro = nums[0];
+        for(int i=0;i<n;i++){
+            for(int j=i;j<n;j++){
+                int pro = 1;
+                for(int k=i;k<=j;k++){
+                    pro = pro * nums[k];
+                }
+                maxpro = max(maxpro,pro);
+            }
         }
-        return maxi;
+        return maxpro;
     }
 };
